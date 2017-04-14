@@ -1,0 +1,35 @@
+body {
+  font-family: Helvetica;
+}
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.nav {
+  font-size: 18px;
+  color: white;
+}
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: grey;
+}
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+  color: grey;
+}
+p {
+  font-size: 14px;
+}
+.subtitle {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+}
+.footer {
+ text-align: left;
+ background-color: dimgray;
+ font-size: 11px;
+}
